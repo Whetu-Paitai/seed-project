@@ -6,12 +6,12 @@
 ##### https://git-scm.com/downloads #####
 
 2. Download and install node.js at:  
-		#####https://nodejs.org/en/download/#####
+##### https://nodejs.org/en/download/ #####
 
 3. Open GitBash (Windows), or Terminal (MacOSX)
 
 4. Type the following and press enter:  
-		#####npm install gulp-cli --global#####
+#####		npm install gulp-cli --global #####
 
 
 
@@ -20,13 +20,13 @@
 #### START HERE IF GIT AND NODE.JS ARE ALREADY INSTALLEED ####
 
 1. Navigate to working folder for your projects.  
-		(in commandline GitBash or Terminal - eg. #####cd Desktop/GSites#####) 
+		(in commandline GitBash or Terminal - eg. **cd Desktop/GSites**) 
 
 2. Type the following and press enter:  
-		#####git clone git@gitlab.com:Fetzu/seed-project.git#####
+		**git clone git@gitlab.com:Fetzu/seed-project.git**
 
 3. After download is complete, navigate into the new seed-project folder.  
-		(in commandline GitBash or Terminal - eg. #####cd seed-project#####) 
+		(in commandline GitBash or Terminal - eg. **cd seed-project**) 
 
 4. Type the following and press enter:  
 		#####npm install#####
