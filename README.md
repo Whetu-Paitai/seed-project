@@ -3,7 +3,7 @@
 #### ONLY FOLLOW PRE INSTALLATION IF GIT AND NODE.JS ARE NOT ALREADY INSTALLED ####
 
 1. Download and install git at:  
-		##### https://git-scm.com/downloads #####
+##### https://git-scm.com/downloads #####
 
 2. Download and install node.js at:  
 		#####https://nodejs.org/en/download/#####
