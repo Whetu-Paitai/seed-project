@@ -53,8 +53,8 @@ to:
 2. Create a new repo by pushing the **[+]** button in the nav bar.  
 		**Remember your "NEW PROJECT NAME" to use in step 4.**
 
-3. Navigate into the new seed-project folder.
-		(in commandline GitBash or Terminal - eg. **cd Desktop/GSites/seed-project**) 
+3. Navigate into the new seed-project folder.  
+		(in commandline GitBash or Terminal - eg. **cd Desktop/GSites/seed-project**)
 
 4. Type the following commands and press enter after each: 
 		**git remote rename origin old-origin**
