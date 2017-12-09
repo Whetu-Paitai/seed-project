@@ -1,6 +1,6 @@
 
 ### PRE INSTALLATION INSTRUCTIONS ###
-##### ONLY FOLLOW PRE INSTALLATION IF GIT AND NODE.JS ARE NOT ALREADY INSTALLED #####
+#### ONLY FOLLOW PRE INSTALLATION IF GIT AND NODE.JS ARE NOT ALREADY INSTALLED ####
 
 1. Download and install git at:
 		######https://git-scm.com/downloads######
@@ -17,7 +17,7 @@
 
 
 ### MAIN INSTALLATION INSTRUCTIONS ###
-##### START HERE IF GIT AND NODE.JS ARE ALREADY INSTALLEED #####
+#### START HERE IF GIT AND NODE.JS ARE ALREADY INSTALLEED ####
 
 1. Navigate to working folder for your projects.
 		(in commandline GitBash or Terminal - eg. ######cd Desktop/GSites######) 
