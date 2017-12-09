@@ -17,7 +17,7 @@
 
 
 ### MAIN INSTALLATION INSTRUCTIONS ###
-#### START HERE IF GIT AND NODE.JS ARE ALREADY INSTALLEED ####
+##### START HERE IF GIT AND NODE.JS ARE ALREADY INSTALLEED #####
 
 1. Navigate to working folder for your projects.
 		(in commandline GitBash or Terminal - eg. ######cd Desktop/GSites######) 
