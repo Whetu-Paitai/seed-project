@@ -46,7 +46,7 @@ If you rename the project folder from "seed-project" to something else, make sur
 to:  
 		**"name": "your-new-folder-name",**  
 
-#### REUPLOADING TO YOUR OWN GITLAB ACCOUNT ####
+#### RE-UPLOADING TO YOUR OWN GITLAB ACCOUNT ####
 1. Go to your **GITLAB** account at:
 		**https://https://gitlab.com**
 
