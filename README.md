@@ -39,11 +39,28 @@
 
 
 
-## EXTRA STEPS - RENAMING THE PROJECT FOLDER "seed-project" ##
+## EXTRA STEPS##
+####RENAMING THE PROJECT FOLDER "seed-project"####
 If you rename the project folder from "seed-project" to something else, make sure you open the 'package.json' file and change line 2 from:  
 		**"name": "seed-project",**  
 to:  
 		**"name": "your-new-folder-name",**  
+
+####REUPLOADING TO YOUR OWN GITLAB ACCOUNT####
+1. Go to your **GITLAB** account at:
+		**https://https://gitlab.com**
+
+2. Create a new repo by pushing the **[+]** button in the nav bar.  
+		**Remember your "NEW PROJECT NAME" to use in step 4.**
+
+3. Navigate into the new seed-project folder.
+		(in commandline GitBash or Terminal - eg. **cd Desktop/GSites/seed-project**) 
+
+4. Type the following commands and press enter after each: 
+		**git remote rename origin old-origin**
+		**git remote add origin git@gitlab.com:"YOUR USERNAME"/"NEW PROJECT NAME".git**
+		**git push -u origin --all**
+		**git push -u origin --tags**
 
 
 
@@ -57,7 +74,7 @@ This template project has some automation to help with learning web development.
 The browsers that are displaying the website will be automatically **REFRESHED** when an **HTML** file is saved, and all changes in **CSS** files will be automatically **INJECTED** when a **CSS** file is saved.  
 
 #### 2. WEBSITE IS SYNCED ACROSS ALL BROWSERS ####
-All browsers are synced when you have the website opened in multiple browsers. Scrolling in one, scrolls in the others automatically. Opening a menu in one, opens a menu in the others automatically. You can also view the website across devices by finding the output (shown below - your will be different, do not use the example below) in the commandline after using **gulp watch**, and putting the **External** URL in the new devices browser. NOTE: The device MUST be connected to the same network as the computer that has the local files.
+All browsers are synced when you have the website opened in multiple browsers. Scrolling in one, scrolls in the others automatically. Opening a menu in one, opens a menu in the others automatically. You can also view the website across devices by finding the output (shown below - yours will be different, do not use the example below) in the commandline after using **gulp watch**, and putting the **External** URL in the new devices browser. NOTE: The device MUST be connected to the same network as the computer that has the local files.
 
 ```
 		[Browsersync] Access URLs:
