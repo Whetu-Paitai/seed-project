@@ -40,10 +40,10 @@
 
 
 ## EXTRA STEPS - RENAMING THE PROJECT FOLDER "seed-project" ##
-If you rename the project folder from "seed-project" to something else, make sure you open the 'package.json' file and change line 2 from: 
-		**"name": "seed-project",**
-to:
-		**"name": "your-new-folder-name",**
+If you rename the project folder from "seed-project" to something else, make sure you open the 'package.json' file and change line 2 from:  
+		**"name": "seed-project",**  
+to:  
+		**"name": "your-new-folder-name",**  
 
 
 
