@@ -1,21 +1,6 @@
 {
   "name": "seed-project",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+ssh://git@gitlab.com/Fetzu/seed-project.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://gitlab.com/Fetzu/seed-project/issues"
-  },
-  "homepage": "https://gitlab.com/Fetzu/seed-project#README",
   "dependencies": {
     "jquery": "3.2.1",
     "jquery-smooth-scroll": "2.2.0",
