@@ -56,11 +56,11 @@ to:
 3. Navigate into the new seed-project folder.  
 		(in commandline GitBash or Terminal - eg. **cd Desktop/GSites/seed-project**)
 
-4. Type the following commands and press enter after each: 
-		**git remote rename origin old-origin**
-		**git remote add origin git@gitlab.com:"YOUR USERNAME"/"NEW PROJECT NAME".git**
-		**git push -u origin --all**
-		**git push -u origin --tags**
+4. Type the following commands and press enter after each:  
+		**git remote rename origin old-origin**  
+		**git remote add origin git@gitlab.com:"YOUR USERNAME"/"NEW PROJECT NAME".git**  
+		**git push -u origin --all**	
+		**git push -u origin --tags**	
 
 
 
