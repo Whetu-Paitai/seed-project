@@ -1,6 +1,9 @@
 {
   "name": "seed-project",
   "version": "1.0.0",
+  "scripts": {
+    "start": "node"
+  }
   "dependencies": {
     "jquery": "3.2.1",
     "jquery-smooth-scroll": "2.2.0",
